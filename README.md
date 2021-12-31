@@ -23,7 +23,7 @@ company: "CBR"
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanestila&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Just meme
 
