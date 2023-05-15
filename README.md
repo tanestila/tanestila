@@ -6,12 +6,10 @@ I am Aleksandra, Frontend developer.
 ![](https://visitor-badge.glitch.me/badge?page_id=tanestila)
 
 ```javascript
-name: "Aleksandra Parshakova"
-pronouns: "She" | "Her"
+name: "Aleksandra"
 located_in: "Tomsk, Russia"
 education: "Information security specialist"
 job: "Frontend developer"
-company: "CBR"
 ```
 
 ### Skills
