@@ -3,8 +3,6 @@
 ### Hi there 👋
 I am Aleksandra, Frontend developer.
 
-![](https://visitor-badge.glitch.me/badge?page_id=tanestila)
-
 ```javascript
 name: "Aleksandra"
 located_in: "Tomsk, Russia"
